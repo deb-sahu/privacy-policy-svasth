@@ -1,6 +1,6 @@
 # Privacy Policy for **Evolve - Health & Wellness**
 
-**Effective Date:** October 1, 2024
+**Effective Date:** Jan 25, 2026
 
 ---
 
