@@ -1,4 +1,4 @@
-# Privacy Policy for **Svasth - Health & Wellness**
+# Privacy Policy for **Svasth**
 
 **Effective Date:** Feb 14, 2026
 
