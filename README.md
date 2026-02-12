@@ -1,22 +1,22 @@
-# Privacy Policy for **Evolve - Health & Wellness**
+# Privacy Policy for **Svasth - Health & Wellness**
 
-**Effective Date:** Jan 25, 2026
+**Effective Date:** Feb 14, 2026
 
 ---
 
 ## 1. Introduction
 
-At **Evolve**, we respect your privacy and are committed to protecting it. This Privacy Policy explains how your information is handled when you use the **Evolve** mobile application.
+At **Svasth**, we respect your privacy and are committed to protecting it. This Privacy Policy explains how your information is handled when you use the **Svasth** mobile application.
 
-**Evolve** is designed as an **offline-first fitness and wellness app**. At this time, the app **does not collect, transmit, store, or share any personal or sensitive user data on external servers**. All data entered into the app remains **locally on your device**.
+**Svasth** is designed as an **offline-first fitness and wellness app**. At this time, the app **does not collect, transmit, store, or share any personal or sensitive user data on external servers**. All data entered into the app remains **locally on your device**.
 
-By using **Evolve**, you agree to the terms outlined in this Privacy Policy.
+By using **Svasth**, you agree to the terms outlined in this Privacy Policy.
 
 ---
 
 ## 2. Developer Information
 
-**Evolve** is owned and developed by **Deb Adsh**.
+**Svasth** is owned and developed by **Deb Adsh**.
 
 For any questions, concerns, or requests related to privacy, you can contact the developer at:
 
@@ -28,7 +28,7 @@ For any questions, concerns, or requests related to privacy, you can contact the
 
 ## 3. Data Collection, Use, and Sharing
 
-**Evolve does not collect or share personal data.**
+**Svasth does not collect or share personal data.**
 
 - No user data is sent to the developer or any external server  
 - No analytics, advertising, or tracking tools are used  
@@ -42,15 +42,15 @@ The developer has **no access** to your data.
 
 ## 4. Third-Party Services
 
-**Evolve** does **not** integrate with any third-party services, SDKs, analytics tools, advertising networks, or data brokers that collect user data.
+**Svasth** does **not** integrate with any third-party services, SDKs, analytics tools, advertising networks, or data brokers that collect user data.
 
-Please note that your device’s operating system (Android or iOS) and other apps installed on your device may have their own privacy policies. **Evolve** is not responsible for data handled by those systems.
+Please note that your device’s operating system (Android or iOS) and other apps installed on your device may have their own privacy policies. **Svasth** is not responsible for data handled by those systems.
 
 ---
 
 ## 5. Permissions
 
-**Evolve** may request limited permissions strictly required for core functionality, such as:
+**Svasth** may request limited permissions strictly required for core functionality, such as:
 
 - Physical activity or step tracking (if enabled by the user)
 - Local storage access for saving app data
@@ -60,13 +60,13 @@ These permissions are:
 - Never used to collect or transmit data externally  
 - Optional where possible  
 
-**Evolve does not access** contacts, camera, microphone, location, or network data for tracking purposes.
+**Svasth does not access** contacts, camera, microphone, location, or network data for tracking purposes.
 
 ---
 
 ## 6. Security and Data Protection
 
-Since **Evolve** does not collect or transmit data, all security depends on your device’s protections.
+Since **Svasth** does not collect or transmit data, all security depends on your device’s protections.
 
 We strongly recommend that users:
 - Use device-level security such as PINs, passwords, or biometric locks  
@@ -90,7 +90,7 @@ No data is retained by the developer.
 
 ## 8. Legal Compliance
 
-**Evolve** is designed to comply with applicable data protection laws, including:
+**Svasth** is designed to comply with applicable data protection laws, including:
 
 - General Data Protection Regulation (GDPR)  
 - California Consumer Privacy Act (CCPA)  
@@ -102,7 +102,7 @@ As no personal data is collected or processed, most regulatory obligations do no
 
 ## 9. Limitation of Liability
 
-**Evolve** is provided on an “as is” basis.
+**Svasth** is provided on an “as is” basis.
 
 The developer is not liable for:
 - Data loss due to device failure  
@@ -115,7 +115,7 @@ Users are responsible for safeguarding their own devices and data.
 
 ## 10. Children’s Privacy
 
-**Evolve** does not knowingly collect personal information from children under the age of 13.
+**Svasth** does not knowingly collect personal information from children under the age of 13.
 
 - No personal or sensitive data is collected from any user, including children  
 - Children under 13 may use the app under parental supervision  
@@ -133,7 +133,7 @@ This Privacy Policy may be updated to reflect:
 - Legal or regulatory changes  
 - Operational updates  
 
-Any significant changes will be reflected in the app store listing or within the app. Continued use of **Evolve** after updates constitutes acceptance of the revised policy.
+Any significant changes will be reflected in the app store listing or within the app. Continued use of **Svasth** after updates constitutes acceptance of the revised policy.
 
 ---
 
@@ -149,6 +149,6 @@ This Privacy Policy is:
 
 ## Acknowledgement
 
-By using **Evolve**, you confirm that you have read, understood, and agreed to this Privacy Policy.
+By using **Svasth**, you confirm that you have read, understood, and agreed to this Privacy Policy.
 
 If you have any questions or concerns, please contact us using the details provided above.
